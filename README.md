@@ -4,7 +4,7 @@
 
 An example [Nest](https://nestjs.com/) application that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-nest-ebb7.hostman.dev/)
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
